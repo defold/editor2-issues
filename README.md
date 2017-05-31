@@ -1,6 +1,6 @@
 # Defold Editor 2.0 issues
 
-This repository exists to track [issues](https://github.com/defold/editor2-issues/issues) for the new [Defold editor](http://www.defold.com/editor-two). 
+This repository exists to track [issues](https://github.com/defold/editor2-issues/issues) for the new [Defold editor](http://www.defold.com/editor-two). Please comment any issue that you don't agree with in terms of the labels below.
 
 ## Labels
 
