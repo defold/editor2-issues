@@ -16,7 +16,7 @@ Open a new issue [here](https://github.com/defold/editor2-issues/issues) and att
 To help you troubleshoot we need some info about your graphics card, for instance from [OpenGL ExtensionsViewer](www.realtech-vr.com/glview/).
 Open a new issue [here](https://github.com/defold/editor2-issues/issues) and attach a GL Report.
 
-### Windows 10 + Intel HD integrated graphics card
+### Windows 10 + older Intel HD integrated graphics card (HD2000, HD3000)
 
 The editor runs on java, using jogamp for OpenGL support. Since Java 8u60, `java.exe` is marked Windows 10 Compliant by a small change in its embedded manifest. The Intel Windows 10 drivers only work on applications *not* marked Windows 10 Compliant. Go figure.
 
