@@ -67,4 +67,4 @@ C:\Users\your.name\Defold\packages\jre\bin>notepad java.manifest
 C:\Users\your.name\Defold\packages\jre\bin>mt -manifest java.manifest -outputresource:java.exe;#1
 ```
 
-Start the editor.
+8. Start the editor
