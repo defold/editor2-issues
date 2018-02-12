@@ -68,3 +68,15 @@ C:\Users\your.name\Defold\packages\jre\bin>mt -manifest java.manifest -outputres
 ```
 
 8. Start the editor
+
+### Windows under Parallels
+
+Enable 3D acceleration under Hardware, Graphics, Advanced Settings.
+
+### Windows under VirtualBox
+
+Enable 3D acceleration under Display, Screen.
+
+
+
+
