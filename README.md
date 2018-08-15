@@ -1,6 +1,10 @@
 # Defold Editor 2.0 issues
 
-This repository exists to track [issues](https://github.com/defold/editor2-issues/issues) for the new [Defold editor](http://www.defold.com/editor-two). Please comment any issue that you don't agree with in terms of the labels below.
+This repository exists to track [issues](https://github.com/defold/editor2-issues/issues) for the new [Defold editor](http://www.defold.com/editor-two).
+
+The repository also tracks user submitted feature requests and bugs for the engine. Do note that this isn't the master list for engine issues. All engine issues are tracked in a private JIRA project. Issues reported here will get fed into the JIRA project.
+
+Please comment any issue that you don't agree with in terms of the labels below.
 
 ## Labels
 
