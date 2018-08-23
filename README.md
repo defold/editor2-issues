@@ -26,6 +26,14 @@ This list is more or less also the exact order in which we fix issues. See 'Swit
 * *more-info* We need more info from the reporter in order to understand the issue
 * *new* Automatically added to issues reported from "Help > Report Issue" inside the editor
 * *kp* Internal use
-* *text-editor* Category label used for any text editor issues
+* *simple* Issue suitable for new editor developers
+
+### Categories
+* *text-editor* Related to the text editor
+* *debugger* Related to the built in debugger
+* *bob* Related to bob/CI
+* *3D* Related to 3D
+* *documentation* Error in documentation
+* *jdk* We suspect a jvm/javafx bug
 
 ![Editor screenshot](https://raw.githubusercontent.com/defold/editor2-issues/master/editor.png)
