@@ -27,8 +27,7 @@ Read more about the situation here:
 
 [Bug report on intel drivers](https://software.intel.com/en-us/forums/graphics-driver-bug-reporting/topic/607695)
 
-The editor appears to run fine if you undo the manifest change on the bundled `java.exe`. We've done this for you here: [64 bit java.zip](https://github.com/defold/editor2-issues/raw/master/faq/java.zip) [32 bit java.zip](https://github.com/defold/editor2-issues/raw/master/faq/java_32.zip).
-You can do it yourself by following these instructions:
+The editor appears to run fine if you undo the manifest change on the bundled `java.exe`. You can do it yourself by following these instructions:
 
 First you need the [Manifest Tool](https://msdn.microsoft.com/library/aa375649). It's distributed as part of the Windows SDK. You probably already have it if you have Visual Studio installed.
 
