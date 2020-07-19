@@ -1,3 +1,10 @@
+# OLD - DON'T REPORT ISSUES HERE!
+
+Report to https://github.com/defold/defold/issues
+
+---
+
+
 # Defold Editor 2.0 issues
 
 This repository exists to track [issues](https://github.com/defold/editor2-issues/issues) for the new [Defold editor](http://www.defold.com/editor-two).
